@@ -1,0 +1,5 @@
+2026-05-16 15:49:40,601 - db_helper - DEBUG - This is a debug message from my_logger
+2026-05-16 15:49:40,601 - db_helper - INFO - This is an info message from my_logger
+2026-05-16 15:49:40,601 - db_helper - WARNING - This is a warning message from my_logger
+2026-05-16 15:49:40,601 - db_helper - ERROR - This is an error message from my_logger
+2026-05-16 15:49:40,602 - db_helper - WARNING - This is a warning message from my_logger
