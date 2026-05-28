@@ -84,11 +84,11 @@ Here’s a preview of the **UI Screens** from the project:
 
 
 ### 📌 Analytics Dashboard (date selected wise)
-- **Analytics by Category**: This is where data is analysed according to the selected date duration  [Add/Update form](https://github.com/AjayAJ26/Python/blob/Expense_Tracking_System_project/WhatsApp%20Image%202026-05-20%20at%204.19.04%20PM.jpeg)
+- **Analytics by Category**: This is where data is analysed according to the selected date duration  [Analytics by Category Form](https://github.com/AjayAJ26/Python/blob/Expense_Tracking_System_project/WhatsApp%20Image%202026-05-20%20at%204.19.04%20PM.jpeg)
 
 
 ### 📌 Analytics Dashboard (Month wise)  
-- **Analytics by Category**: This is where data is analysed according to the selected date duration  [Add/Update form](https://github.com/AjayAJ26/Python/blob/Expense_Tracking_System_project/WhatsApp%20Image%202026-05-20%20at%204.18.29%20PM.jpeg)
+- **Analytics by Month**: This is where data is analysed according to the selected date duration  [Analytics by Month Form](https://github.com/AjayAJ26/Python/blob/Expense_Tracking_System_project/WhatsApp%20Image%202026-05-20%20at%204.18.29%20PM.jpeg)
 
 ---
 ## 🌟 Business Impact  
