@@ -1,6 +1,6 @@
 # 💰 Expense Management System  
 
-*A Data Analytics project combining a **Streamlit frontend** and a **FastAPI backend** to manage, track, and analyze daily expenses with ease.*  
+*A Data Analytics project combining a **Streamlit frontend** and a **FastAPI backend** to manage, track, and analyze daily expenses.*  
 
 ---
 
