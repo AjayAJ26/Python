@@ -120,7 +120,7 @@ This project demonstrates how to:
 ## 📬 Contact  
 
 🔗 **LinkedIn:** www.linkedin.com/in/ajay-jadhav-8381aa347  
-📧 **Email:** aj.ajayjadhav01gmail.com  
+📧 **Email:** aj.ajayjadhav01@gmail.com  
 
 ---
 
