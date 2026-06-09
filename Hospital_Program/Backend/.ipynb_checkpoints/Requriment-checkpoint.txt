@@ -1,0 +1,7 @@
+pdf2image
+numpy
+pandas
+pytesseract
+opencv_python
+pillow
+fastapi[all]
